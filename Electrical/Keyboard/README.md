@@ -25,7 +25,7 @@ Below are the pinouts of the mass production units.
 | GPIO5    | BOOT_DONE  |               |           |                    | All                    |
 | GPIO6    | Reserved   | KSI5          | High-Z    | Unused             | All                    |
 | GPIO7    | Reserved   | KSI5          | High-Z    | Unused             | All                    |
-| GPIO8-23 | KSO1-15    |               |           |                    | All                    |
+| GPIO8-23 | KSO0-15    |               |           |                    | All                    |
 | GPIO24   | CAPS_LED   | Capslock LED  | OUT       | High Active        | RGB & White Keyboard   |
 | GPIO25   | BACKLIGHT  | Backlight LED | OUT       | High Active        | White Keyboard, Numpad |
 | GPIO26   | I2C1_SDA   | IS31FL3743A   | IN/OUT    |                    | RGB Keyboard, Macropad |
